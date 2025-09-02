@@ -1,5 +1,11 @@
 ## Back end git link : https://github.com/peninsula101/customer-management-app-backend
 
+## Deployed links:
+front end: https://customer-management-app-frontend.vercel.app/
+back end: 
+https://customer-management-app-backend.onrender.com/api/customers/3/addresses
+https://customer-management-app-backend.onrender.com/api/customers
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
