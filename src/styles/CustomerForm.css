@@ -1,0 +1,28 @@
+
+
+.customer-form {
+    max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  margin-top: 20px;
+}
+
+.customer-form h1 {
+  margin-bottom: 16px;
+}
+
+.customer-form input {
+  width: 90%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.customer-form button {
+  background: #2563eb;
+  color: #fff;
+}

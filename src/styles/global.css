@@ -1,0 +1,41 @@
+/* Reset / Base */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f9fafb;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: #2563eb;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+@media (max-width: 600px) {
+  .filters {
+    grid-template-columns: 1fr;
+  }
+
+  .customer-table th,
+  .customer-table td {
+    font-size: 14px;
+    padding: 6px;
+  }
+}

@@ -1,0 +1,32 @@
+.customer-detail {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+}
+
+.customer-detail h2 {
+  margin-bottom: 8px;
+}
+
+.customer-detail ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+.customer-detail li {
+  margin-bottom: 6px;
+}
+
+.customer-detail input {
+  padding: 8px;
+  margin: 4px 0;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.customer-detail button {
+  margin-top: 6px;
+  background: #16a34a;
+  color: #fff;
+}
