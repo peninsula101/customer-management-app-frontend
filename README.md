@@ -1,3 +1,5 @@
+## I am Thallam Venkata Sri Charana Sai Kireeti 
+
 ## Back end git link : https://github.com/peninsula101/customer-management-app-backend
 
 ## Deployed links:
@@ -7,6 +9,10 @@ back end:
 https://customer-management-app-backend.onrender.com/api/customers/3/addresses
 
 https://customer-management-app-backend.onrender.com/api/customers
+
+## Recordings:
+
+https://drive.google.com/drive/folders/1kDoRXEeIv46BAuVoeGBince5RQleYE2u
 
 # Getting Started with Create React App
 
